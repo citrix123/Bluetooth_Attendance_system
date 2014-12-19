@@ -27,7 +27,11 @@ connect client and server both and start program client_new.c on client machine(
 It will start listening and sending 
 
 Gui:
-for gui just extract and compile the rahul.tar in this package. and run Gui
+open SmartAttendece 
+qmake
+make
+./SmartAttendence
+and run Gui
 
 Contact:
 talentediq@gmail.com
